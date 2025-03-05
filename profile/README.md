@@ -18,10 +18,10 @@
 
 ---
 
-## **Tech & Terms Stack**  
+## **Resources**  
 
 <details>  
-  <summary>Programs</summary>  
+  <summary>Tech</summary>  
   <ul>  
     <li><a href="https://posit.co/download/rstudio-desktop/">R</a></li>  
     <li><a href="https://ccl.northwestern.edu/netlogo/">NetLogo</a></li>  
@@ -32,7 +32,7 @@
 </details>  
 
 <details>  
-  <summary>Concepts</summary>  
+  <summary>Terms</summary>  
   <ul>  
     <li><a href="">Concept1</a></li>  
     <li><a href="">Concept2</a></li>  
