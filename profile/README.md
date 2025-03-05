@@ -6,7 +6,7 @@
 ---
 
 ## **Repositories**
-- **GEN**: General data, resources, and documents shared among all involved in project
+- **General**: General data, resources, and documents shared among all involved in project
 - **MS/PhD**: Analyses, materials, writing, and products specific to graduate student
   
 ---
